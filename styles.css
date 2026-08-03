@@ -125,7 +125,7 @@ header.nav {
 }
 
 .brand-logo {
-  height: clamp(20px, 3.4vw, 60px);
+  height: clamp(35px, 3.4vw, 60px);
   width: auto;
   max-width: 100%;
   flex-shrink: 1;
